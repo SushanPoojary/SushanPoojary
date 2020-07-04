@@ -1,4 +1,8 @@
 ### Hi there 👋
+💬 Ask me about data
+⚡ Find me on medium @sushanpoojary
+
+
 
 <!--
 **SushanPoojary/SushanPoojary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
