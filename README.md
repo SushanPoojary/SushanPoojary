@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋🏼
 💬 Ask me about data
-
+🌱 I’m currently learning Predictive Analytics.
 ⚡ Find me on medium @sushanpoojary
 
 
