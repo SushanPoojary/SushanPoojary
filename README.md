@@ -5,7 +5,9 @@
 
 ⚡ Find me on medium @sushanpoojary
 
-[![Sushan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SushanPoojary&count_private=true&show_icons=true&theme=radical)](https://github.com/SushanPoojary/github-readme-stats)
+[![Sushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SushanPoojary&count_private=true&show_icons=true&theme=radical)](https://github.com/SushanPoojary/github-readme-stats)
+
+[![Sushan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SushanPoojary&count_private=true&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3)](https://github.com/SushanPoojary/github-readme-stats)
 
 
 
