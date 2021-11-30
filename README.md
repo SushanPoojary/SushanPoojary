@@ -1,7 +1,7 @@
 ### Hi there 👋🏼
 💬 Ask me about Web Development and Data
 
-🔭 I’m currently working on UberEats Prototype using MERN Stack and Kafka.
+🔭 I’m currently working on UberEats Prototype and Indeed Prototype using MERN Stack and Kafka.
 
 🌱 I’m currently learning GraphQL.
 
