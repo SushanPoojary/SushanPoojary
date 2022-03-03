@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on UberEats Prototype and Indeed Prototype using MERN Stack and Kafka.
 
-🌱 I’m currently learning GraphQL.
+🌱 I’m currently learning GraphQL, Design Patterns, and Spring Boot.
 
 ⚡ Find me on medium @sushanpoojary
 
