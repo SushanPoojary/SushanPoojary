@@ -9,7 +9,7 @@
 
 [![Sushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SushanPoojary&count_private=true&layout=compact&show_icons=true&theme=tokyonight&hide=contribs,issues)](https://github.com/SushanPoojary/github-readme-stats)
 
-[![Sushan's GitHub stats](https://readme-stats.jonas-bernard.dev/api/top-langs/?username=SushanPoojary&count_private=true&show_icons=true&layout=compact&bg_color=7,00FFF0,62FDFF,62FFBF,B862FF,FF62F5)](https://github.com/SushanPoojary/github-readme-stats)
+[![Sushan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SushanPoojary&count_private=true&show_icons=true&layout=compact&bg_color=7,00FFF0,62FDFF,62FFBF,B862FF,FF62F5)](https://github.com/SushanPoojary/github-readme-stats)
 
 
 
