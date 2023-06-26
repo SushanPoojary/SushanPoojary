@@ -1,9 +1,9 @@
 ### Hi there 👋🏼
-💬 Ask me about Web Development, System Design, and Data
+💬 Ask me about Web Development, System Design, and Data.
 
-🔭 I’ve developed various fullstack applications from scratch utilizing **MERN** stack along with other tools such as Docker and Kafka. Apart from ExpressJS, I've also worked on Spring Boot and Flask for backend.
+🔭 I’ve developed various fullstack applications from scratch utilizing **MERN** stack along with other tools such as **Docker and Kafka**. Apart from **ExpressJS**, I've also worked on **Spring Boot** and **Flask** for backend.
 
-✨ I'm proficient in cloud deployment. I've deployed web apps on AWS, Vercel, Heroku, Railway, Pythonanywhere. 
+✨ I'm proficient in cloud deployment. I've deployed web apps on AWS, Vercel, Heroku, Railway, and Pythonanywhere. 
 
 🌱 I’m currently learning GOlang, GraphQL, Design Patterns, and Spring Boot.
 
