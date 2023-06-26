@@ -1,9 +1,11 @@
 ### Hi there 👋🏼
 💬 Ask me about Web Development, System Design, and Data
 
-🔭 I’ve developed UberEats Prototype and Indeed Prototype using MERN Stack and Kafka.
+🔭 I’ve developed various fullstack applications from scratch utilizing **MERN** stack along with other tools, and frameworks such as Spring Boot, Flask, Docker, and Kafka.
 
-🌱 I’m currently learning GraphQL, Design Patterns, and Spring Boot.
+✨ I'm also proficient in cloud deployment. I've deployed web apps on AWS, Vercel, Heroku, Railway, Pythonanywhere. 
+
+🌱 I’m currently learning GOlang, GraphQL, Design Patterns, and Spring Boot.
 
 ⚡ Find me on medium @sushanpoojary
 
