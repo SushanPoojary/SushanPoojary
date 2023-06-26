@@ -17,7 +17,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushanPoojary&langs_count=6&count_private=true&show_icons=true&layout=compact&bg_color=7,00FFF0,62FDFF,62FFBF,B862FF,FF62F5" />
 </a>
 
-Disclaimer: The top languages might be little skewed as lot of the projects are private and is not included in the API for calculation.
+
 
 <!-- [![Sushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SushanPoojary&count_private=true&layout=compact&show_icons=true&theme=aura&hide=contribs,issues)](https://github.com/SushanPoojary/github-readme-stats)
 
